@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1418373188 source:e:\tmp\qz\files.c
+	<stdio.h>
+	"data.h"
+
+1418119719 e:\tmp\qz\data.h
+
+1418116034 source:e:\tmp\qz\readers.c
+	<stdio.h>
+	<string.h>
+	"data.h"
+
+1418375609 source:e:\tmp\qz\quiz.c
+	<stdio.h>
+	"data.h"
+	"files.h"
+	"readers.h"
+
+1418371080 e:\tmp\qz\files.h
+	"data.h"
+
+1417789740 e:\tmp\qz\readers.h
+	"data.h"
+
